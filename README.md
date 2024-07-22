@@ -71,7 +71,4 @@ WikiGame est un jeu éducatif qui consiste à trouver le chemin le plus court en
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## Acknowledgements
-
-Merci à tous ceux qui ont contribué à ce projet et à la communauté Wikipedia pour leurs ressources incroyables.
 
