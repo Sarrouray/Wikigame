@@ -40,7 +40,7 @@ WikiGame est un jeu éducatif qui consiste à trouver le chemin le plus court en
     python manage.py runserver 8000
     ```
 
-5. Ouvrez votre navigateur et accédez à `http://127.0.0.1:8000` pour jouer au jeu.
+5. Ouvrez votre navigateur et accédez à `http://127.0.0.1:8000/wikigame` pour jouer au jeu.
 
 ## Utilisation
 
